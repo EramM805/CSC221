@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AssassinFinalProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_name_enter">nameEnter</string>
+    <string name="title_activity_murderers_count">MurderersCount</string>
+    <string name="title_activity_narrator_assignment">NarratorAssignment</string>
+    <string name="title_activity_roles">Roles</string>
+</resources>
